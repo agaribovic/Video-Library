@@ -1,4 +1,4 @@
-# movies
+# Movie library app created using Vue.js
 
 ## Project setup
 ```
